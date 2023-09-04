@@ -12,7 +12,7 @@ val PurpleGrey40 = Color(0xFF252525)
 val Pink40 = Color(0xFF7D5260)
 
 val NoteColors =
-    listOf(listOf(
+    listOf(
         Color(0xffFFCC80),
         Color(0xffFFAB91),
         Color(0xffE7ED9B),
@@ -21,4 +21,3 @@ val NoteColors =
         Color(0xffF48FB1),
         Color(0xff7DCAC2)
     )
-)
